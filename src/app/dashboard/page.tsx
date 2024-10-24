@@ -10,7 +10,7 @@ const DashboardPage = () => {
   return (
     <div>
       <Header />
-      <p>This is the dashboard content.</p>
+      <p>Hi Aslesha</p>
     </div>
   );
 };
